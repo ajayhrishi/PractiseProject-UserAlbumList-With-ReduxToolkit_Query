@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "name": "Harold Strosin",
+      "id": 4
+    },
+    {
+      "name": "David Pouros",
+      "id": 6
+    },
+    {
+      "name": "Jacqueline Ziemann",
+      "id": 7
+    },
+    {
+      "name": "Rachael Schuppe",
+      "id": 8
+    },
+    {
+      "name": "Garry Brakus",
+      "id": 9
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
